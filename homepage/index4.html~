@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Schoology</title>
+</head>
+<body>
+	<a href="file:///C:/Users/Patrick/Documents/Programming/Vim/Web%20Dev/Website/About%20Me%20Site/index2.html">
+		<img src="Images/schoologu.png"></a>
+	<h1> Welcome to Schoology </h1>
+	<p> Please enter your username and password to securely log in. </p>
+	<br>
+	<form action="file:///C:/Users/Patrick/Desktop/webdev/website/homepage/index5/index5.html">
+	<input type="text" name="Username" value="Username"><br>
+	<input type="text" name="Password" value="Password"><br>
+	<input type="submit" value="Submit">
+	</form>
+       	<br>
+	<br>
+	<p> Website Officially Hosted By Schoology &#169 Very Legitimate </p>	
+</body>
+</html>
+

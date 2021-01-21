@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta http-equiv="Content-Type" content ="text/html; charset=UTF-8"/>
+	<link rel="stylesheet" type="text/css" href="CSS Website.css"/> 
+</head>
+<body> 
+	
+
+<h1 style="text-align: center;color:white;font-family:Courier New;">Patrick Celedio</h1>
+
+<center> <img src = "Images/patrick1.jpg" width = 239" height = "239" alt = "A picture of myself." /> </center>
+
+<center> <p style="color:yellow; font-family: Verdana ;"> Welcome to my webpage. I have either given you the URL or you found it. </p> </center>
+
+<ul> 
+	<center> <h2>I am skilled at computer technology</h2> </center>
+
+
+	<h5 style="color:yellow; font-family: consolas;">These are what I am proefficient in.</h5>	
+	<li>Troubleshoot and repair</li>
+	<li>Malware and trojan removal</li>
+	<li>Network Engineer</li>
+	<li>Programmer</li>
+	<li>Research</li><br>
+</ul>
+
+<p style="color:yellow;text-align:center;">
+I am currently pursuing a cybersecurity career in the moment. I went to school in Pacifica. Growing up was an interesting chpater in my life. I was introduced to new ideas and ways of thinking. I had good experiences and bad experiences, but it all summed up to who I am in the present. </p>
+
+
+<center> <img src = "Images/adventure.png" width = "239" height = "239" alt = "I like to explore." /> </center> 
+
+<h1 style="font-family:Consolas; color:yellow; text-align: center;"> I have goals. </h1>
+
+<ul> 
+	<h5> I would like to accomplish these goals by the end of 2017. </h5>
+
+	<li> CompTIA A+ Certified </li>
+	<li> Cisco CNAA Certifed</li>
+	<li> Proefficient in Python</li>
+	<li> Another application </li>
+	<li> A very nice tech blog </li>
+	<li> To meet many great people who have a common goal </li>
+
+</ul>
+
+<br><br>
+
+<p style="color:yellow; font-family: Consolas;"> If you would like to come in contact with me, please visit one of these sites below and direct message me. </p>
+
+
+<a href="https://www.facebook.com/itpatofficial/">
+<img src = "Images/fblogo.png" width = "50" height = "50" alt="Link to ITpat." >
+</a>
+
+<a href="https://www.instagram.com/patrickceledio/">
+<img src = "Images/iglogo.png" width = "50" height = "50"  />
+</a>
+
+<a href="https://twitter.com/patrickceledio">
+<img src = "Images/twitterlogo.png" width = "50" height = "50" />
+</a>
+
+<a href="https://www.linkedin.com/in/patrick-celedio-7a734b98/">
+<img src ="Images/linkedinlogo.png" width = "50" height = "50" />
+</a>
+
+<p> Website designed &#169 2017 by Patrick Celedio in the San Francisco Bay Area </p>
+</body>
+</html>
+

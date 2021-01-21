@@ -1,0 +1,56 @@
+body {
+	background-color: black;
+	background-image: url("Images/background.gif");
+	background-repeat: repeat-x;
+	color: white;
+}
+
+a:link{
+    color:yellow;
+}
+
+a:hover{   
+    color:aqua;
+}
+
+nav {   
+    text-align: center;
+}
+
+ul {	
+	 
+	color: yellow;
+	font-family:Consolas;
+}
+
+h1{	
+	text-align: center;
+	color:white;
+	font-family:Courier New;"
+}
+
+p{
+	color:yellow;
+	font-family: consolas;
+	text-align: center;
+}
+
+h5{	
+	color:yellow;
+	font-family: consolas;
+}
+
+.t1{
+    
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.t2{
+    font-size: 400%;
+}
+
+.t3{
+    
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title> My Battlestation </title>
+	<link rel="stylesheet" type="text/css" href="index3.css"/>
+</head>
+<body>	
+	<h1> Behold! This is where amazing happens. </h1>
+	<img src="Images/battlestation.png" align="bottom" alt="battlestation.jpg">
+	<br>
+	<br>
+	<br>
+	<br>
+	<p><a href="file:///C:/Users/Patrick/Desktop/webdev/website/homepage/HTMLWebsite.html">Go Back</p></a>
+	<br><p> <a href="webdev/website/homepage/index4/index4.html">Visit Schoology!</p></a>
+	<br>
+	<br>
+	<br>
+<p> Website designed &#169 2017 by Patrick Celedio in the San Francisco Bay Area </p>
+</body>
+</html>
+
